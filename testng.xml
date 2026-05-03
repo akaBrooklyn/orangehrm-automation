@@ -1,0 +1,13 @@
+<suite name="OrangeHRM Suite">
+    <test name="All Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.PIMTest"/>
+            <class name="tests.AdminTest"/>
+            <class name="tests.LeaveTest"/>
+            <class name="tests.PerformanceTest"/>
+            <class name="tests.RecruitmentTest"/>
+            <class name="tests.ReportsTest"/>
+        </classes>
+    </test>
+</suite>
